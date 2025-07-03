@@ -1,1 +1,2 @@
-# spawn-message
+### Сообщения о спавне игроков
+> Доступно в Steam Workshop!
